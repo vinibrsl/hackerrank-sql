@@ -12,10 +12,10 @@ HackerRank SQL Track solutions repository.
 Commit your solutions here using the following template:
 
 ```
-$ -- Problem name
-$ -- Problem URL
-$ 
-$ SELECT * FROM YourSolution
+-- Problem name
+-- Problem URL
+ 
+SELECT * FROM YourSolution
 ```
 
 Feel free to contribute 😃
