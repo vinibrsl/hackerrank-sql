@@ -1,5 +1,5 @@
 ## HackerRank SQL Track Solutions
-HackerRank SQL Track solutions repository.
+[HackerRank SQL Track](https://www.hackerrank.com/domains/sql/select) solutions repository.
 
 * [Basic Select](https://github.com/vnbrs/hackerrank-sql/tree/master/basic-select)
 * [Advanced Select](https://github.com/vnbrs/hackerrank-sql/tree/master/advanced-select)
@@ -9,7 +9,7 @@ HackerRank SQL Track solutions repository.
 * [Alternative Queries](#) - WIP
 
 ## How to contribute?
-Commit your solutions here using the following template:
+Commit your solutions using the following template:
 
 ```
 -- Problem name
