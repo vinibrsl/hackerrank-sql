@@ -4,7 +4,7 @@
 * [Basic Select](https://github.com/vnbrs/hackerrank-sql/tree/master/basic-select)
 * [Advanced Select](https://github.com/vnbrs/hackerrank-sql/tree/master/advanced-select)
 * [Aggregation](https://github.com/vnbrs/hackerrank-sql/tree/master/aggregation)
-* [Basic Join](#) - WIP
+* [Basic Join](https://github.com/vnbrs/hackerrank-sql/tree/master/basic-join)
 * [Advanced Join](#) - WIP
 * [Alternative Queries](#) - WIP
 
