@@ -5,7 +5,7 @@
 * [Advanced Select](https://github.com/vnbrs/hackerrank-sql/tree/master/advanced-select)
 * [Aggregation](https://github.com/vnbrs/hackerrank-sql/tree/master/aggregation)
 * [Basic Join](https://github.com/vnbrs/hackerrank-sql/tree/master/basic-join)
-* [Advanced Join](https://github.com/vnbrs/hackerrank-sql/tree/master/advanced-join) - WIP
+* [Advanced Join](https://github.com/vnbrs/hackerrank-sql/tree/master/advanced-join)
 * [Alternative Queries](https://github.com/vnbrs/hackerrank-sql/tree/master/alternative-queries) - WIP
 
 ## How to contribute?
